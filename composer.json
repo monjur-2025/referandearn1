@@ -1,0 +1,10 @@
+{
+  "name": "telegram/bot",
+  "description": "Webhook-based Telegram bot",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
