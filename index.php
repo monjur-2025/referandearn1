@@ -1,6 +1,6 @@
 <?php
 // Bot configuration
-define('BOT_TOKEN', 'Place_Your_Token_Here'); // Replace this with your bot's token
+define('BOT_TOKEN', '8053463006:AAEh5ocQIzeDQqklsw6bwzVmC8iqETB0mwU'); // Replace this with your bot's token
 define('API_URL', 'https://api.telegram.org/bot' . BOT_TOKEN . '/');
 define('USERS_FILE', 'users.json');
 define('ERROR_LOG', 'error.log');
